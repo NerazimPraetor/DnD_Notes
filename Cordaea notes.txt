@@ -1,0 +1,30 @@
+G - 23  S - 12  C - 4
+
+Deep-Distress Warren #38
+    (prev) Worshiper of Kolina
+    Healer feat
+        Healer's Kit (10 uses each):
+            *(????)
+            *(????)
+            *(????)
+
+Mynrei:
+    Alton Greenleaf - Hunter/hop owner (Weapons Shop) ☆
+    Phin - Hunter(?)
+    Terra Greenheart - Hunter (Intermediate) ☆
+        - Church of Akna for Healer's Kits.
+        - Bridget (Merchant's District) for Herbs/Herbal Supplies (Best prices, not the best quality, good for beginners)
+        - Phoenix Apothecary (Merchant's District) for Herbs/Herbal Supplies (Good quality, but pricier, also has herbal brews)
+    Hunkar - Hunkar's Herbs ☆
+
+Novice:
+    Red Pine sap - thick sap that takes full minute (OUT OF COMBAT), applied to bare skin, temp binds damaged tissue for four hours then flakes off, if applied within 10 mins of wounding, taking damage gives temp hp (1d4+WIS%) for damage taken for four hrs.
+    Charcoal + Milk: helps speed up the flushing of poison from your system.
+    Ginger Root - herb with immediate effect(full action), feels energetic ("sly and spry") for one minute, can take a bonus action on each turn to dash OR disengage.
+        IF TAKEN WHILE SEVERELY INJURED increases recovery period by: {1, 4, 7}%days OR point of Minor Exhaustion <- reliant on potency
+    Rageleaf - herb with immediate effect (bonus or full action), feels hot anger coursing through. for one minute, take -1 damage from bludgeoning/piercing/slashing damage effects.
+        IF TAKEN WHILE SEVERLY INJURED increases recovery period by: {1d4, 2d4, 3d4}%days <- reliant on potency
+Intermediate:
+    Red Moss sap - sap of red sticky moss, numbs pain, feels healing itch, heals 1d6.
+    Silverleaf - Raises confidence (charisma), allows for perfect mimicry of voices, lasts one minute. No adverse effects when brewed.
+    Oak Thistle - Immediately removes one effect(deafened, blinded, poisoned) from you. (Takes one action for consummation)
